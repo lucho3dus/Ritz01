@@ -54,6 +54,10 @@
 		{
 			"Name": "ElectraPlayer",
 			"Enabled": true
+		},
+		{
+			"Name": "PanoramicCapture",
+			"Enabled": true
 		}
 	]
 }
