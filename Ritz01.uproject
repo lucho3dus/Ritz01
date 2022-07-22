@@ -1,8 +1,15 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.0",
+	"EngineAssociation": "{24822AEB-47CA-4403-0AB7-748C7601167D}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "Ritz01",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
@@ -57,6 +64,10 @@
 		},
 		{
 			"Name": "PanoramicCapture",
+			"Enabled": true
+		},
+		{
+			"Name": "PureWeb",
 			"Enabled": true
 		}
 	]
