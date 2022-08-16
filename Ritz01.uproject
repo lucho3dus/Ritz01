@@ -58,6 +58,10 @@
 		{
 			"Name": "PanoramicCapture",
 			"Enabled": true
+		},
+		{
+			"Name": "PureWeb",
+			"Enabled": true
 		}
 	]
 }
