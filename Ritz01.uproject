@@ -71,7 +71,7 @@
 		},
 		{
 			"Name": "PureWeb",
-			"Enabled": true
+			"Enabled": false
 		}
 	]
 }
